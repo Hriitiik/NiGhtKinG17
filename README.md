@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NiGhtKinG17
+- 👋 Hi, I’m @Hriitiik
 - 👀 I’m interested in Software Development, Web Development and Blockchain development
-- 🌱 I’m currently in Final Year of my B.E.(Information Technology)
+- 🌱 I’m currently pursuing my Masters in InfoTech at University of Stuttgart
 - 📫 How to reach me: 
       LinkedIn: https://www.linkedin.com/in/hritik-shelar-b239b51a2
       Instagram: https://www.instagram.com/in/_hritik_17_
